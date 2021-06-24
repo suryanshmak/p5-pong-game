@@ -1,8 +1,3 @@
-// Suryansh Makharia 
-// An Example of simple pong game
-// Edited last 5 minutes ago buddy 
-
-// Random Ball Placement
 var xBall = Math.floor(Math.random() * 300) + 50;
 var yBall = 50;
 var xSpeed = (2, 7);
